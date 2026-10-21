@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Global Finance",
+  "description": "Next-generation global business finance platform powering international payments, invoice financing, foreign exchange, and treasury operations for US enterprises and global merchants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
